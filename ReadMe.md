@@ -15,4 +15,4 @@ The application was publised using [GitHub Pages](https://pages.github.com/).
 
 Here is link to view the application:
 
-[Sushil G Animate On Scroll Effect](https://susgupta.github.ioanimate_on_scroll_tutorial/)
+[Sushil G Animate On Scroll Effect](https://susgupta.github.io/animate_on_scroll_tutorial/index.html)
